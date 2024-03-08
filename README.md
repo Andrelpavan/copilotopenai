@@ -1,6 +1,6 @@
 # Desafio DIO - Explorando os Recursos de IA Generativa com Copilot e OpenAI
 
-Segue abaixo os passo realizados para utilizar os recursos da IA Generativa com Studio Vision  .
+Segue abaixo os passos realizados para utilizar os recursos da IA Generativa com Studio Vision  .
 ________
 
 Conforme a aprendizagem no curso da DIO utilizei os recursos de IA do Azure para reconhecer textos presentes em imagens, conforme a proposta do desafio.
@@ -32,4 +32,5 @@ Imagen 3:
 ![image](https://github.com/Andrelpavan/iagenerativa/assets/69944259/b63ceb5f-97b0-4e6f-9ba6-c0e82249ea5e)
 
 **Sobre o conteúdo:**
+
 O desafio da utilização dos recusos da IA Generativa mostrou a amplitude da habilidade de converter imagens em dados, oferecendo uma via facilitada para analisar e extrair conjuntos de dados visuais. O conteúdo tratado permitiu visualizar a forma de incorpor essas tecnologias, onde requerem que tenham mecanismos que assegurem a segurança e a privacidade dos dados, além de demandar transparência e responsabilidade em sua utilização.
