@@ -1,4 +1,4 @@
-# Desafio DIO - Explorando os Recursos de IA Generativa com Copilot e OpenAI
+# Desafio DIO - Explorando os Recursos de IA Generativa.
 
 Segue abaixo os passos realizados para utilizar os recursos da IA Generativa com Studio Vision  .
 ________
